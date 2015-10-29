@@ -1,5 +1,5 @@
 {
-  "name": "hapi-auth-jwt2",
+  "name": "@trax/hapi-auth-jwt2",
   "version": "4.9.0",
   "description": "Hapi.js Authentication Plugin/Scheme using JSON Web Tokens (JWT)",
   "main": "lib/index.js",
